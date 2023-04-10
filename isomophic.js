@@ -15,3 +15,4 @@ const isIsomophic = (s, t)=> {
     
 }
 console.log(isIsomophic ('egg', 'add'))
+console.log(isIsomophic ('foo', 'bar'))
